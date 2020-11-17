@@ -1,0 +1,7 @@
+haritzblanco@ubuntu:~/Desktop/4.Praktika$ sudo lsof -i -P -n | grep asterisk
+asterisk  5098        asterisk    8u  IPv4 103475      0t0  TCP 127.0.0.1:5038 (LISTEN)
+asterisk  5098        asterisk   10u  IPv4 102845      0t0  UDP *:37619 
+asterisk  5098        asterisk   11u  IPv6 102846      0t0  UDP *:43726 
+asterisk  5098        asterisk   18u  IPv4 100938      0t0  UDP *:4569 
+asterisk  5098        asterisk   19u  IPv4 100939      0t0  UDP *:5060 
+

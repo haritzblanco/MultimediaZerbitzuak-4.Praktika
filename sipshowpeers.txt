@@ -1,0 +1,15 @@
+haritzblanco@ubuntu:/etc/asterisk$ sudo asterisk -rvvvv
+Asterisk 16.2.1~dfsg-2ubuntu1, Copyright (C) 1999 - 2018, Digium, Inc. and others.
+Created by Mark Spencer <markster@digium.com>
+Asterisk comes with ABSOLUTELY NO WARRANTY; type 'core show warranty' for details.
+This is free software, with components licensed under the GNU General Public
+License version 2 and other licenses; you are welcome to redistribute it under
+certain conditions. Type 'core show license' for details.
+=========================================================================
+Connected to Asterisk 16.2.1~dfsg-2ubuntu1 currently running on ubuntu (pid = 7646)
+ubuntu*CLI> sip show peers
+Name/username             Host                                    Dyn Forcerport Comedia    ACL Port     Status      Description                      
+jone                      (Unspecified)                            D  Auto (No)  No             0        Unmonitored                                  
+patxi                     (Unspecified)                            D  Auto (No)  No             0        Unmonitored                                  
+2 sip peers [Monitored: 0 online, 0 offline Unmonitored: 0 online, 2 offline]
+

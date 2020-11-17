@@ -1,0 +1,4 @@
+haritzblanco@ubuntu:~/Desktop/4.Praktika$ ps aux | grep asterisk | grep -v grep
+asterisk    5098  1.5  1.7 2224532 69268 ?       Ssl  20:18   0:03 /usr/sbin/asterisk -g -f -p -U asterisk
+asterisk    5103  0.0  0.0   2356   584 ?        S    20:18   0:00 astcanary /var/run/asterisk/alt.asterisk.canary.tweet.tweet.tweet 5098
+
