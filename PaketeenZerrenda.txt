@@ -1,0 +1,183 @@
+debian-goodies - Small toolbox-style utilities for Debian systems
+resource-agents - Cluster Resource Agents
+asterisk - Open Source Private Branch Exchange (PBX)
+asterisk-config - Configuration files for Asterisk
+asterisk-core-sounds-en - asterisk PBX sound files - US English
+asterisk-core-sounds-en-g722 - asterisk PBX sound files - en-us/g722
+asterisk-core-sounds-en-gsm - asterisk PBX sound files - en-us/gsm
+asterisk-core-sounds-en-wav - asterisk PBX sound files - en-us/wav
+asterisk-core-sounds-es - asterisk PBX sound files - Spanish
+asterisk-core-sounds-es-g722 - asterisk PBX sound files - es-mx/g722
+asterisk-core-sounds-es-gsm - asterisk PBX sound files - es-mx/gsm
+asterisk-core-sounds-es-wav - asterisk PBX sound files - es-mx/wav
+asterisk-core-sounds-fr - asterisk PBX sound files - Canadian French
+asterisk-core-sounds-fr-g722 - asterisk PBX sound files - fr-ca/g722
+asterisk-core-sounds-fr-gsm - asterisk PBX sound files - fr-ca/gsm
+asterisk-core-sounds-fr-wav - asterisk PBX sound files - fr-ca/wav
+asterisk-core-sounds-it - asterisk PBX sound files - Italian
+asterisk-core-sounds-it-g722 - asterisk PBX sound files - it-it/g722
+asterisk-core-sounds-it-gsm - asterisk PBX sound files - it-it/gsm
+asterisk-core-sounds-it-wav - asterisk PBX sound files - it-it/wav
+asterisk-core-sounds-ru - asterisk PBX sound files - Russian
+asterisk-core-sounds-ru-g722 - asterisk PBX sound files - ru-ru/g722
+asterisk-core-sounds-ru-gsm - asterisk PBX sound files - ru-ru/gsm
+asterisk-core-sounds-ru-wav - asterisk PBX sound files - ru-ru/wav
+asterisk-dahdi - DAHDI devices support for the Asterisk PBX
+asterisk-dev - Development files for Asterisk
+asterisk-doc - Source code documentation for Asterisk
+asterisk-espeak - eSpeak module for Asterisk
+asterisk-flite - flite module for Asterisk
+asterisk-mobile - Bluetooth phone support for the Asterisk PBX
+asterisk-modules - loadable modules for the Asterisk PBX
+asterisk-moh-opsound-g722 - asterisk extra sound files - English/g722
+asterisk-moh-opsound-gsm - asterisk extra sound files - English/gsm
+asterisk-moh-opsound-wav - asterisk extra sound files - English/wav
+asterisk-mp3 - MP3 playback support for the Asterisk PBX
+asterisk-mysql - MySQL database protocol support for the Asterisk PBX
+asterisk-ooh323 - H.323 protocol support for the Asterisk PBX - ooH323c
+asterisk-opus - opus module for Asterisk
+asterisk-prompt-de - German voice prompts for the Asterisk PBX
+asterisk-prompt-es-co - Colombian Spanish voice prompts for Asterisk
+asterisk-prompt-fr-armelle - French voice prompts for Asterisk by Armelle Desjardins
+asterisk-prompt-fr-proformatique - French voice prompts for Asterisk
+asterisk-prompt-it-menardi - asterisk PBX Italian sound files
+asterisk-prompt-it-menardi-alaw - asterisk PBX Italian sound files - a-law prompts
+asterisk-prompt-it-menardi-gsm - asterisk PBX Italian sound files - gsm prompts
+asterisk-prompt-it-menardi-wav - asterisk PBX Italian sound files - wav prompts
+asterisk-tests - internal test modules of the Asterisk PBX
+asterisk-voicemail - simple voicemail support for the Asterisk PBX
+asterisk-voicemail-imapstorage - IMAP voicemail storage support for the Asterisk PBX
+asterisk-voicemail-odbcstorage - ODBC voicemail storage support for the Asterisk PBX
+asterisk-vpb - VoiceTronix devices support for the Asterisk PBX
+baresip - portable and modular SIP user-agent - metapackage
+baresip-core - portable and modular SIP user-agent - core parts
+baresip-ffmpeg - portable and modular SIP user-agent - FFmpeg codecs and formats
+baresip-gstreamer - portable and modular SIP user-agent - GStreamer pipelines
+baresip-gtk - portable and modular SIP user-agent - GTK+ front-end
+baresip-x11 - portable and modular SIP user-agent - X11 features
+braillegraph - simple histogram tool producing text dot-matrix graphs
+coturn - TURN and STUN server for VoIP
+dahdi - utilities for using the DAHDI kernel modules
+dahdi-dkms - DAHDI telephony interface (dkms kernel driver)
+dahdi-linux - DAHDI telephony interface - Linux userspace parts
+dahdi-source - DAHDI telephony interface - source code for kernel driver
+dlz-ldap-enum - Plug-in for bind9 that uses LDAP data to fulfill ENUM requests
+fonts-seto - handwriting Japanese font including JIS X 0213 kanji
+gastman - GUI tool for Asterisk administration and monitoring
+gsutil - configure and manage Grandstream BudgeTone 100 VOIP and GX2000 phones
+hashcat - World's fastest and most advanced password recovery utility
+homer-api - HOMER Capture Node REST API
+homer-api-mysql - HOMER Capture Node REST API
+homer-api-postgresql - HOMER Capture Node REST API
+iaxmodem - software modem with IAX2 connectivity
+janus - general purpose WebRTC gateway
+kamailio - very fast, dynamic and configurable SIP server
+kamailio-autheph-modules - authentication using ephemeral credentials for the Kamailio SIP server
+kamailio-berkeley-bin - Berkeley database module for Kamailio - helper program
+kamailio-berkeley-modules - Berkeley database module for the Kamailio SIP server
+kamailio-cnxcc-modules - cnxcc modules for the Kamailio SIP server
+kamailio-cpl-modules - CPL module (CPL interpreter engine) for the Kamailio SIP server
+kamailio-erlang-modules - Erlang modules for the Kamailio SIP server
+kamailio-extra-modules - Extra modules for the Kamailio SIP Server
+kamailio-geoip-modules - geoip module for the Kamailio SIP Server
+kamailio-geoip2-modules - geoip2 module for the Kamailio SIP Server
+kamailio-ims-modules - IMS module for the Kamailio SIP server
+kamailio-json-modules - Json parser and Json-RPC modules for the Kamailio SIP server
+kamailio-kazoo-modules - kazoo modules for the Kamailio SIP server
+kamailio-ldap-modules - LDAP modules for the Kamailio SIP server
+kamailio-lua-modules - app_lua module for Kamailio Lua support
+kamailio-memcached-modules - interface to the memcached server, for the Kamailio SIP server
+kamailio-mongodb-modules - mongodb modules for the Kamailio SIP server
+kamailio-mono-modules - app_mono module for the Kamailio SIP server
+kamailio-mysql-modules - MySQL database connectivity module for Kamailio
+kamailio-outbound-modules - SIP Outbound module for the Kamailio SIP server
+kamailio-perl-modules - Perl extensions and database driver for the Kamailio SIP server
+kamailio-phonenum-modules - phonenum modules for the Kamailio SIP server
+kamailio-postgres-modules - PostgreSQL database connectivity module for the Kamailio SIP server
+kamailio-presence-modules - SIP presence modules for Kamailio
+kamailio-python3-modules - app_python3 module for the Kamailio SIP server
+kamailio-rabbitmq-modules - RabbitMQ and AMQP integration modules for the Kamailio SIP server
+kamailio-radius-modules - RADIUS modules for the Kamailio SIP server
+kamailio-redis-modules - Redis database connectivity module for the Kamailio SIP server
+kamailio-ruby-modules - app_ruby module for Kamailio Ruby support
+kamailio-sctp-modules - SCTP SIP transport module for the Kamailio SIP server
+kamailio-snmpstats-modules - SNMP AgentX subagent module for the Kamailio SIP server
+kamailio-sqlite-modules - SQLite database connectivity module for the Kamailio SIP server
+kamailio-systemd-modules - systemd logging modules for the Kamailio SIP server
+kamailio-tls-modules - TLS support for the Kamailio SIP server (authentication, transport)
+kamailio-unixodbc-modules - unixODBC database connectivity module for the Kamailio SIP server
+kamailio-utils-modules - Utility functions for the Kamailio SIP server
+kamailio-websocket-modules - WebSocket module for the Kamailio SIP server
+kamailio-xml-modules - XML based extensions for Kamailio's Management Interface
+kamailio-xmpp-modules - XMPP gateway module for the Kamailio SIP server
+khard - address book for the Linux console
+libasterisk-agi-perl - Collections of Perl modules to be used with Asterisk PBX AGI
+libbasicusageenvironment1 - multimedia RTSP streaming library (BasicUsageEnvironment class)
+libbellesip-dev - SIP stack from the Linphone team (development files)
+libbellesip0 - SIP stack from the Linphone team
+libgroupsock8 - multimedia RTSP streaming library (network interfaces and sockets)
+liblinphone++9 - Linphone's shared library part (supporting the SIP protocol)
+liblinphone-dev - Linphone web phone's library - development files
+liblinphone9 - Linphone's shared library part (supporting the SIP protocol)
+liblivemedia-dev - multimedia RTSP streaming library (development files)
+liblivemedia77 - multimedia RTSP streaming library
+libmediastreamer-voip10 - Voice and video streaming engine for telephony (voip)
+libnet-sip-perl - framework for SIP modules
+libnetsds-perl - Service Delivery Suite framework
+libopenr2-3 - MFC/R2 (telephony) call setup library
+libosip2-11 - Session Initiation Protocol (SIP) library
+libosip2-dev - development files for the SIP library
+libre-dev - generic library for real-time communications (development files)
+libre0 - generic library for real-time communications with async IO support
+libsip-api-java - SIP API for Java
+libsipxtapi - SIP stack, RTP media framework and codecs
+libsipxtapi-dev - SIP stack, RTP media framework and codecs (headers)
+libsipxtapi-doc - SIP stack, RTP media framework and codecs (API documentation)
+libsofia-sip-ua-dev - Sofia-SIP library development files
+libsofia-sip-ua-glib-dev - Sofia-SIP library glib/gobject interface development files
+libsofia-sip-ua-glib3 - Sofia-SIP library glib/gobject interfaces runtime
+libsofia-sip-ua0 - Sofia-SIP library runtime
+libtelephony-asterisk-ami-perl - Simple Asterisk Manager Interface client (Perl module)
+libusageenvironment3 - multimedia RTSP streaming library (UsageEnvironment classes)
+linphone - SIP softphone - graphical client
+linphone-common - Shared components of the linphone SIP softphone
+linphone-nogtk - SIP softphone - console-only client
+livemedia-utils - multimedia RTSP streaming tools
+mangler - Ventrilo compatible client for Linux
+mumble - Low latency encrypted VoIP client
+mumble-server - Low latency encrypted VoIP server
+mz - versatile packet creation and network traffic generation tool
+panoramisk - asyncio based library to play with asterisk (Python 3 binary)
+pyqt5-dev - Development files for PyQt5
+pyqt5.qsci-dev - Development files for Python Qscintilla2 (Qt5)
+pyqt5chart-dev - Development files for PyQtCharts
+python-aioice-doc - library for Interactive Connectivity Establishment (documentation)
+python-asterisk - Asterisk Manager API interface module for Python
+python-panoramisk-doc - asyncio based library to play with asterisk (doc)
+python-sip - Python/C++ bindings generator runtime library
+python-sip-dbg - Python/C++ bindings generator runtime library (debug extension)
+python-sip-dev - Python/C++ bindings generator development files
+python-sip-doc - Python/C++ bindings generator documentation
+python3-aioice - library for Interactive Connectivity Establishment
+python3-panoramisk - asyncio based library to play with asterisk (Python 3 library)
+python3-sip - Python 3/C++ bindings generator runtime library
+python3-sip-dbg - Python 3/C++ bindings generator runtime library (debug extension)
+python3-sip-dev - Python 3/C++ bindings generator development files
+roger-router - Home router management tool - GUI
+roger-router-cli - Home router management tool - command-line interface
+rtpproxy - Relay for Real-time Transport Protocol (RTP) media streams
+ruby-ami - Ruby client library for the Asterisk Management Interface
+sip-dev - Python/C++ bindings generator code generator application
+sip-tester - Performance testing tool for the SIP protocol
+sipcrack - SIP login dumper/cracker
+sipgrep - command line tool to sniff, capture, display SIP messages
+siproxd - SIP proxy/redirect/registrar
+sipsak - SIP Swiss army knife
+sngrep - Ncurses SIP Messages flow viewer
+sofia-sip-bin - Sofia-SIP library utilities
+sofia-sip-doc - Sofia-SIP library documentation
+telepathy-rakia - SIP connection manager for the Telepathy framework
+twinkle - Voice over Internet Protocol (VoIP) SIP Phone (GUI)
+twinkle-common - Voice over Internet Protocol (VoIP) SIP Phone (common files)
+twinkle-console - Voice over Internet Protocol (VoIP) SIP Phone (console)
+dahdi-firmware-nonfree - DAHDI non-free firmware

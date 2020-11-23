@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.16.1-Ubuntu <<>> -t SRV _sip._udp.sip.voice.google.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5255
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;_sip._udp.sip.voice.google.com.	IN	SRV
+
+;; ANSWER SECTION:
+_sip._udp.sip.voice.google.com.	21 IN	SRV	10 1 5060 sip-anycast-1.voice.google.com.
+_sip._udp.sip.voice.google.com.	21 IN	SRV	20 1 5060 sip-anycast-2.voice.google.com.
+
+;; Query time: 0 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53)
+;; WHEN: mié nov 11 20:34:33 CET 2020
+;; MSG SIZE  rcvd: 159
+
